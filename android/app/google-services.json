@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179254832097",
+    "project_id": "pandai-app-a98b6",
+    "storage_bucket": "pandai-app-a98b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179254832097:android:515e6d02b9daa350fa40a0",
+        "android_client_info": {
+          "package_name": "com.example.pandaiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrsphd7NVTlfEXnZb70myR9ymA7rJFimU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

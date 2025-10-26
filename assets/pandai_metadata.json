@@ -1,0 +1,16 @@
+{
+  "feature_names": [
+    "previous_score",
+    "avg_time_per_question",
+    "correct_streak",
+    "total_attempts",
+    "last_difficulty"
+  ],
+  "difficulty_mapping": {
+    "1": "Easy",
+    "2": "Medium",
+    "3": "Hard"
+  },
+  "model_accuracy": 0.907,
+  "training_date": "2025-10-26 12:12:26"
+}
